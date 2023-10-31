@@ -1,0 +1,92 @@
+html{
+    font-family: "new-zen", sans-serif;
+}
+
+body{
+    background-color: lightpink;
+    color: rgb(255, 0, 119) (255, 0, 128);
+
+}
+
+
+
+
+.text-box {
+Background: #ff0054;
+color: pink;
+font-size: 156px;
+padding: 20px;
+border: 20px solid pink;
+width: 1400px;
+height: 600px;
+text-align: center;
+line-height: 150px;
+margin-top: 20px ;
+margin: 0 auto;
+}
+
+
+.content One {
+    padding: 10px;
+}
+
+.Newzen h1 {
+    margin:0;
+    color: rgb(255, 0, 119);
+}
+
+
+
+.content h3 {
+ color: #ff0054;
+}
+
+
+.content three h3 {
+ color: #ff0054;
+}
+
+.content three p{
+    color:pink;
+    background-color: #ff0054;
+}
+
+.content h2{
+    color: #ff0054;
+}
+
+.custom-paragraph {
+    color: #ff0054;
+    font-size: 16px;
+   
+
+}
+
+header{
+    text-align: center;
+    background-color: #ff0054;
+    color: pink;
+    padding: 30px 0;
+    width: 1400px;
+   
+}
+
+header h1{
+    margin: 0;
+}
+
+header nav u1 {
+    list-style: none;
+    padding:0;
+}
+
+header nav li {
+    display: inline;
+    margin-right: 0 10px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: pink;
+}
+
